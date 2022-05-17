@@ -26,6 +26,12 @@ font-style:italic;}
 
 .span1{color:#072ac8;}
 
+
+.about_novinki{
+text-indent:20px;
+font-style:italic;
+}
+
 footer{margin-top:30px;
 font-style:italic;
 /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f9f4f2+0,a80a2f+100 */
@@ -42,6 +48,19 @@ background-color:#a5a5a5;}
 .production_cat_item a{color:darkblue;
 text-decoration:none;
 font-style:italic;}
+
+.perevagu{
+color:darkblue;
+font-size:30px;
+font-weight:bold;
+font-style:italic;}
+
+
+.perevagu_info{
+font-size:18px;
+color:darkred;
+font-style:italic;
+}
 
 
 .about_shop{
